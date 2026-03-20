@@ -56,6 +56,7 @@ Performance benchmarking
 ▶️ How to Run
 g++ main.cpp -O2 -o benchmark
 ./benchmark
+
 📊 Output
 
 The program prints:
